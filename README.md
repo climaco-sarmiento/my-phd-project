@@ -1,6 +1,6 @@
 # PQMAEM - My PhD Project
 
-This is a private repo for my research regarding my PhD Course in Quantitative Methods Applied to Economics and Management (PQMAEM). 
+This is my research project for my PhD Course in Quantitative Methods Applied to Economics and Management (PQMAEM).
 
 ## Author
 
